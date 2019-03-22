@@ -3,7 +3,7 @@ Contributors: alleyinteractive, mboynes, potatomaster, davisshaver, dlh
 Tags: seo
 Requires at least: 4.6.0
 Tested up to: 4.8.0
-Stable tag: 0.13.0
+Stable tag: 0.14.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
